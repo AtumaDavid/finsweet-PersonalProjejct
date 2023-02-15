@@ -1,0 +1,159 @@
+.home-section-one{
+   //  height: 760px;
+  
+      h1{
+       font-size: 54px;
+       line-height: 74px;
+       font-weight: 600;
+       width: 582px;
+   }
+
+   p{
+      width: 562px;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 28px;
+      opacity: 0.7;
+   }
+
+}
+
+
+// section two
+.home-section-two{
+   // height: 661px;
+   .sec-two-p{
+      width: 405px;
+   }
+
+   h1{
+      font-size: 48px;
+      line-height: 64px;
+      font-weight: 600;
+   }
+
+   h3{
+      font-weight: 500;
+      font-size: 32px;
+      line-height: 48px;
+   }
+
+   p{
+      opacity: 0.7;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 28px;
+      width: 303px;
+   }
+
+   a{
+      font-weight: bold;
+   }
+
+   
+   
+}
+
+
+//section three
+.home-section-three{
+      height: 760px;
+
+   
+      
+   
+  
+   .inner-pic{
+      position: absolute;
+   }
+   .outter-pic{
+      position: absolute;
+   }
+   .overlay-text{
+      position: absolute;
+      top: 1950px;
+      width: 313px;
+      left: 200px;
+
+       h1{
+         font-weight: 600;
+         font-size: 24px;
+         line-height: 36px;
+      }
+      
+   }
+   .overlay-text-two{
+      position: absolute;
+      margin-top: 120px;
+      width: 250px;
+      margin-left: 50px;
+      h1{
+         font-weight: 600;
+         font-size: 24px;
+         line-height: 36px;
+      }
+
+      span{
+         font-weight: 500;
+         font-size: 16px;
+         line-height: 24px;
+      }
+   }
+   
+   .sec-grid-btm{
+      position: relative;
+      margin-top: 300px;
+   }
+ 
+}
+
+
+//section four
+.section-four{
+   .sec-three-header{
+      width: 430px;
+      margin: 0 auto;
+
+      h5{
+         font-weight: 500;
+         size: 16px;
+         line-height: 28px;
+      }
+      h1{
+         font-weight: 600;
+         size: 48px;
+         line-height: 50px;
+      }
+   }
+
+   .card-style{
+      
+      
+      h1{
+         font-weight: 500;
+         font-size: 24px;
+         width: 324.08px;
+         margin: 0 auto;
+         // background: #bada55;
+         
+      }
+      p{
+         font-weight: 400;
+         font-size: 10px;
+         width: 324.08px;
+         margin: 0 auto;
+         height: 112px;
+         opacity: 0.7;
+         margin-top: 10px;
+      }
+      img{
+         margin: 0 auto;
+         margin-left: 40px;
+         margin-bottom: 5px;
+      }
+      
+      
+   }
+   
+
+}
